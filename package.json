@@ -1,17 +1,18 @@
 {
   "name": "proj3-simple-atm-machine",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is Simple ATM Machine Project",
   "main": "index.js",
   "type": "module",
-  "bin": "index,js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Irfan Memon",
   "license": "MIT",
   "dependencies": {
-    "inquirer": "^9.2.20"
+    "inquirer": "^9.2.20",
+    "proj3-simple-atm-machine": "^1.0.3"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
